@@ -1,0 +1,33 @@
+*{
+    margin:0%;
+}
+
+.a{
+ background-image: url('./img/capa.png');
+ height: 80vh;
+ width: 99vw;
+ background-position: center;
+ background-size: cover;
+ 
+
+ 
+}
+
+.legenda{
+    color:white;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+
+.sub_legenda{
+    font-size: 50px;
+    opacity: 50%;
+    
+}
+
+.legenda_meio{
+    font-size: 52px;
+    margin-top: 15px ;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+.topo{
+    display: flex;
+}
+.image_logo{
+    height:70px ;
+    width:200px ;
+    display:flex;
+    margin-left: 150px;
+}
+
+.links{
+   padding: 5px ;
+   text-decoration: none;
+   color:black;
+   font-size: 22px;
+
+}
+
+.margin{
+    margin-left: 450px;
+    margin-top: 15px;
+}

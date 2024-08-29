@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+}
+
+.descricao{
+ text-align: center;
+margin-top: 45px;
+margin-bottom: 45px;
+}
+
+.fonte{
+    font-size: 18px;
+}
+
+.imagem_descricao{
+    width: 600px;
+    height: 400px;
+}
+
+.bloco_descricao{
+    display: flex;
+    margin-left: 135px;
+}
+
+.titulo_descricao{
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+.legenda_descricao{
+    margin-top: 60px;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.imagem_descricao_dois{
+    width: 600px;
+    height: 400px;
+    margin-left: 100px;
+}

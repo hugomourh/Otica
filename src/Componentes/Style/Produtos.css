@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.produtos{
+    margin-top: 60px;
+    text-align: center;
+
+}
+
+.abc{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 22px;
+}
+
+.fundo_oculos{
+    background-color: #e6e6e6;
+   padding: 50px 70px;
+   text-align: center;
+   margin-top: 15px;
+   margin-left: 15px;
+}
+
+.tamanho_oculos{
+    height: 300px;
+    width: 500px;
+}
+
+.bloco{
+    display: flex;
+    margin-left: 120px;
+}
+
+.beneficios{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 18px;
+    
+}
+
+li{
+    list-style: circle;
+    margin-top: 10px;
+}
+
+

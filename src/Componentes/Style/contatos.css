@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+
+.contato_fundo{
+    background-color: blue;
+    
+    
+}
+
+.icone{
+    display: flex;
+}
+
+.imagem{
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+
+.titulo_contato{
+    text-align: center;
+    position: relative;
+    top: 45px;
+    font-size: 22px;
+}
+
+.redes_socias{
+    margin-left: 900px;
+    position: relative;
+    bottom: 15px;
+    
+}
+
+.contato{
+    position: relative;
+    top: 150px;
+    margin-left: 300px;
+    
+    
+}
+
+.paragrafo_contato{
+    margin-top: 20px;
+}

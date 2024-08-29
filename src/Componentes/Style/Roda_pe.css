@@ -1,0 +1,18 @@
+*{
+    margin:0 ;
+
+}
+
+.roda_pe{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 80px;
+   
+    
+}
+
+.direitos{
+   position: relative;
+   top: 30px;
+}
